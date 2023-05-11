@@ -1,8 +1,4 @@
-# File Tracker Manager System v1.0 has SQL injection
-
 BUG_Author:GZR1
-
-Website source code address: https://www.sourcecodester.com/php/11510/file-tracker-manager.html
 
 Vulnerability File: /file_manager/register/update_password.php
 
